@@ -7,5 +7,6 @@ Please note that many of these signature modules make use of Optiv's extensive
 improvements to both Cuckoo and cuckoomon and are noted accordingly as requiring
 Cuckoo version "1.2".
 
-If you have signature modules to contribute, feel free to submit pull requests or
-email brad.spengler@optiv.com.
+December 1st 2015 is my last day at Optiv.  I want to thank Optiv for giving me the opportunity to contribute all this work to the rest of the world.
+Since I will no longer have access to this account, I have created a fork of each of the repos at https://github.com/spender-sandbox/ which you may
+submit pull requests to that I will respond to quickly.

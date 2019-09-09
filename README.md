@@ -2,7 +2,7 @@ This repository contains over 220 [Cuckoo Sandbox](http://www.cuckoosandbox.org)
 those heavily modified for correctness, removal of false positives,
 and more detailed information.  It also includes over 75 new signature modules provided under the GPL.
 
-Please note that many of these signature modules make use of Optiv's extensive
+Please note that many of these signature modules make use of extensive
 improvements to both Cuckoo and cuckoomon and are noted accordingly as requiring
 Cuckoo version "1.2".
 
